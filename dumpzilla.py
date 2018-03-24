@@ -499,7 +499,7 @@ class Dumpzilla():
 
 
     ###############################################################################################################
-    ### PASSWORDS
+    ### PASSWORDS INFORMATION
     ###############################################################################################################
 
     def show_passwords(self,dir):
@@ -2683,6 +2683,7 @@ Profile location:
 if __name__ == '__main__':
     app = Dumpzilla(sys.argv)
 
-# Site: www.dumpzilla.org
-# Authors: Busindre ( busilezas[@]gmail.com )
-#                   OsamaNehme ( onehdev[@]gmail.com )
+# Site: https://www.dumpzilla.org
+# GuitHub: https://github.com/Busindre/dumpzilla
+# Authors: Busindre   ( busilezas[@]gmail.com )
+#          OsamaNehme ( onehdev[@]gmail.com )
